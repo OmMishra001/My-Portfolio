@@ -1,0 +1,21 @@
+.project-section1{
+    /* border: 0.1em solid rgba(255, 255, 255, 0); */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;  
+	height: 91vh;
+    box-shadow: 0rem 1rem 4rem #f75023;
+    /* border-radius: 2rem; */
+}
+
+.project-section1col{
+    /* border: 0.1em solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    height: 35rem;
+    overflow: auto;
+    flex-wrap: wrap;
+}

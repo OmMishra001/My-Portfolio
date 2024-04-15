@@ -1,0 +1,19 @@
+.Resume{
+    /* color: white; */
+    padding: 0.7rem 0.4rem;
+    font-size: 0.6rem;
+    background-color: transparent;
+    border: 2px solid red;
+    /* border: none; */
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+
+
+.Resume:hover{
+    filter: drop-shadow(0 0 0.9rem #f75023);
+    transform: scale(0.83);
+}
+
